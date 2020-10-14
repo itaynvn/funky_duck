@@ -1,0 +1,156 @@
+EDITION: UK
+Search
+ MUST READ: iPhone 12: All the models, launch dates, pricing and specs
+GitHub to replace 'master' with 'main' starting next month
+All new Git repositories on GitHub will be named "main" instead of "master" starting October 1, 2020.
+
+Catalin Cimpanu
+By Catalin Cimpanu | September 20, 2020 -- 01:28 GMT (02:28 BST) | Topic: Developer
+
+github-master.png
+Starting next month, all new source code repositories created on GitHub will be named "main" instead of "master" as part of the company's effort to remove unnecessary references to slavery and replace them with more inclusive terms.
+
+ZDNET RECOMMENDS
+The best online collaboration tools in 2020: How remote teams stay productive
+The best online collaboration tools in 2020: How remote teams stay productive
+
+Teams need tools to help them collaborate and stay productive while remotely working. Here's our top picks.
+
+Read More
+
+GitHub repositories are where users and companies store and synchronize their source code projects.
+
+By default, GitHub uses the term "master" for the primary version of a source code repository. Developers make copies of the "master" on their computers into which they add their own code, and then merge the changes back into the "master" repo.
+
+"On Oct. 1, 2020, any new repositories you create will use main as the default branch, instead of master," the company said.
+
+Existing repositories that have "master" set as the default branch will be left as is.
+
+"For existing repositories, renaming the default branch today causes a set of challenges," GitHub explained in a support page published earlier this month, such as having to edit settings for pull requests and modifying security policies.
+
+"By the end of the year, we'll make it seamless for existing repositories to rename their default branch," GitHub said.
+
+"When you rename the branch, we'll retarget your open PRs and draft releases, move your branch protection policies, and more - all automatically."
+
+GITHUB PROMISED IN JUNE
+The company's move is part of a bigger trend in the tech community.
+
+After the brutal death of George Floyd and the Black Lives Matter protests earlier this year, tech companies wanted to show their support for the black community by abandoning non-inclusive terms such as master, slave, blacklist, and whitelist.
+
+Companies and major open source projects like Microsoft, IBM, Twitter, Red Hat, MySQL, the Linux kernel, and OpenBSD have agreed to make changes to their technical jargon all through the 2020 summer.
+
+GitHub was one of the first companies to show support for such changes when its CEO revealed in June that they were already looking for a replacement for "master."
+
+The company's announcement earlier this month comes to deliver on its CEO's promise.
+
+Furthermore, the Git project, which is the base software on which GitHub was built, has also announced similar plans to at least provide repository owners with the option to customize their default repository branch going forward.
+
+
+SECURITY
+Leaders of ‘notorious’ Team Xecuter game piracy, homebrew group arrested
+New Ttint IoT botnet caught exploiting two zero-days in Tenda routers
+Best security keys: Hardware two-factor authentication for online protection
+Best security cameras for business: Google Nest, Ring, Scout, and more
+Cyber security 101: Protect your privacy from hackers, spies, and the government
+How to keep connected cars safe from cyber attacks (ZDNet YouTube)
+Top 6 cheap home security devices in 2020 (CNET)
+Cybersecurity best practices: An open letter to end users (TechRepublic)
+RELATED TOPICS: OPEN SOURCE ENTERPRISE SOFTWARE MOBILE OS
+Catalin Cimpanu
+By Catalin Cimpanu | September 20, 2020 -- 01:28 GMT (02:28 BST) | Topic: Developer
+
+by TaboolaSponsored LinksRecommended For You
+Build a City, Trade With Your Neighbors, Play With Your Friends
+Forge of Empires - Free Online Game
+Play the most challenging WWII strategy game, no install needed
+Call of War | World War II
+Play this new game for 1 Minute and see why everyone is addicted
+Planet Capture
+Many Mac Users Use This App To Clean Mac From Junk.
+MacKeeper
+ SHOW COMMENTS
+MORE FROM CATALIN CIMPANU
+
+Security
+
+TrickBot botnet survives takedown attempt, but Microsoft sets new legal precedent
+
+
+Security
+
+Microsoft October 2020 Patch Tuesday fixes 87 vulnerabilities
+
+
+Security
+
+Malware gangs love open source offensive hacking tools
+
+
+Tech Industry
+
+Yahoo Groups to shut down for good on December 15, 2020
+
+NEWSLETTERS
+ZDNet Innovation Weekly
+This week in emerging technology, innovative ideas from around the world and digital business transformation.
+Your email address
+ SUBSCRIBE
+SEE
+ALL
+MORE RESOURCES
+The Ultimate Learn to Code Bundle - ZDNet Academy
+
+Training from ZDNet Academy
+ READ NOW
+ZDNet Academy - Ultimate SQL Bootcamp
+
+Training from ZDNet Academy
+ READ NOW
+Lifetime Access: Project Management Professional Certification Training Bundle
+
+Training from ZDNet Academy
+ READ NOW
+RELATED STORIES
+ 1 of 3 
+
+Tesla's Elon Musk: Some 'expert, careful' drivers get beta Full Self-Driving next week
+Tesla's beta of Full Self-Driving will be released to a limited number of drivers next Tuesday.
+
+
+The tiny BBC micro:bit mini-computer just got a big upgrade
+The pocket-sized computer has a new microphone and better hardware, so that children can learn the basics of machine learning.
+
+
+Twilio to acquire CDP player Segment for $3.2 billion
+Twilio will use the all-stock deal to add intelligence to its engagement cloud.
+
+
+
+
+
+
+
+ZDNetCONNECT WITH US   
+© 2020 CBS Interactive. All rights reserved. Privacy Policy | Cookies | Ad Choice | Advertise | Terms of Use | Mobile User Agreement
+
+Visit other CBS Interactive sites: 
+Select Site
+Topics
+Galleries
+Videos
+Sponsored Narratives
+CA Privacy/Info We Collect
+CA Do Not Sell My Info
+About ZDNet
+Meet The Team
+All Authors
+RSS Feeds
+Site Map
+Reprint Policy
+Join | Log In
+Membership
+Newsletters
+Site Assistance
+ZDNet Academy
+TechRepublic Forums
+Manage Scripts
